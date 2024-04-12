@@ -1,0 +1,14 @@
+.btn-primary {
+    background-color: #4CAF50; /* Vibrant green */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    display: inline-block;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #388E3C; /* Darker green on hover */
+}
